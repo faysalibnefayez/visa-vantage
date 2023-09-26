@@ -1,0 +1,13 @@
+body{
+    margin:0%;
+}
+.background{
+    background-image: url("images/background.png");
+    background-size: 100%;
+}
+section{
+    height: 700px;
+}
+.join-button{
+    text-decoration: none;
+}
